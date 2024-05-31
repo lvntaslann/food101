@@ -65,4 +65,4 @@ We employed transfer learning methods using the InceptionV3 model to achieve hig
 - **Momentum:** 0.9
 
 ### Dataset URL
-- **https://www.kaggle.com/datasets/dansbecker/food-101/data
+- https://www.kaggle.com/datasets/dansbecker/food-101/data
